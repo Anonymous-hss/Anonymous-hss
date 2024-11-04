@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ Working as Web Developer<br>🛫 Exploring AI/ML and Open Source Contribution<br>🆘 Looking for help with Open Source Contribution<br>🏫 Currently learning AI/ML<br>🗣️ Talk to me about more and more technology<br>⚱️ Fun fact: I have explored many domains which includes Web Development, Blockchain, Cyber Security, Open Source Contribution and AI/ML
+⚒️ Working as Full Stack Developer<br>🛫 Exploring AI/ML and Open Source Contribution<br>🆘 Looking for help with Open Source Contribution<br>🏫 Currently learning AI/ML<br>🗣️ Talk to me about more and more technology<br>⚱️ Fun fact: I have explored many domains which includes Web Development, Blockchain, Cyber Security, Open Source Contribution and AI/ML
 
 
 ## 🌐 Socials:
